@@ -2,7 +2,7 @@
 
 <!--
 **thisissher/thisissher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🚀 About Me
 🚀 QA Engineer @ FinTech
 🔍 Passionate about ensuring top-notch software quality
 💡 Lover of innovative tech solutions and meticulous testing
