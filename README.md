@@ -1,6 +1,6 @@
 ## Hi there, I'm Shermaine! 👋
 
-<iframe src="https://giphy.com/embed/cJ5vF0yBJdspg9GgJd" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/originals-cJ5vF0yBJdspg9GgJd">via GIPHY</a></p>
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxzcXJ1ODh5dGEzY2Q3NHdrczF5MXA2bGk1YTBnOXZhemFscG5ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJ5vF0yBJdspg9GgJd/giphy.gif
 
 ### 🚀 About Me
 I'm a budding QA Engineer at a FinTech company, eager to learn and grow in the field of software quality assurance. I'm passionate about ensuring that every product I work on meets high standards of quality and reliability.
